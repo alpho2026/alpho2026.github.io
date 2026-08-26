@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  description: "A blog built with Quarto"
+  site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
+  title: "ALPHONCE OYUGI"
+  navbar:
+    left:
+    - text: "Home"
+      file: index.qmd
+    - text: "Portfolio"
+      file: portfolio.qmd
+    - text: "CV"
+      file: cv.qmd
+    right:
+      - icon: github
+        href: https://github.com/alpho2026
+      
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+
+
+

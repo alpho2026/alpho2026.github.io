@@ -1,0 +1,16 @@
+---
+title: "Alphonce Oyugi"
+image: Passport Photo_ALPHONCE OYUGI___.png
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/alphonce-oyugi-0a19411b2/
+    - icon: github
+      text: Github
+      href: https://github.com/alpho2026
+
+---
+
+Alphonce Oyugi is a global early-career health researcher, healthcare innovator, and public health professional passionate about using data, artificial intelligence, and point-of-care technologies to strengthen healthcare systems. He works at the intersection of global health, digital health, health technology, and implementation research, with a focus on improving health outcomes in low- and middle-income countries. He is currently pursuing a Master of Science in Global Health at Duke University.

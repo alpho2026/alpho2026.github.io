@@ -1,0 +1,10 @@
+---
+title: "LEN Project"
+author: "Alphonce Oyugi"
+date: "2026-08-26"
+categories: [code, analysis, r]
+image: "image.jpg"
+---
+
+This was a project on Lenacapavir for HIV Prevention in Kenya. You can find project [here](https://cema-africa.uonbi.ac.ke/capacity-strengthening/fellowships){target="_blank"}
+
